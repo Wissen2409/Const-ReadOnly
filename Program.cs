@@ -21,3 +21,4 @@ Sabit s = new Sabit("Wissen");
 // conts değeri dışarıdan alınmaz, readonnly de ctor aracılığı ile değer alınabilir!!
 
 // Conts bir sınıfın bir elemanıdır.!! ReadOnly nesnenin bir elemanıdır!! Not : Static konusunda konuşulacak!!
+

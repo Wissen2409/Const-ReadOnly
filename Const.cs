@@ -15,7 +15,7 @@ public class Sabit
 
 
     //ReadOnly keyword'ü!!
-     
+
 
 
     //ReadOnly değişken tanımlama aşağıdaki gibidir.!!!
@@ -32,7 +32,7 @@ public class Sabit
         // nesne kullanıcısı tarafından değer atanmak istenirse, ctor kullanılarak değer ataması gerçekletirilebilir!!
         this.FirmaAdi = firmaAdi;
     }
-        public readonly string FirmaAdi;
+    public readonly string FirmaAdi;
 
     //public string Password ="1010";
 
